@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="113b8d2e-547a-4f53-bd19-6da2f000c579" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/arithmetic/ArithmeticApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/arithmetic/model/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/arithmetic/model/ICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/arithmetic/model/IRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/arithmetic/model/JdbcRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/arithmetic/ArithmeticChicagoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/arithmetic/ArithmeticLondonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/arithmetic/helper/InMemoryRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YMuytOOjTwrGnOZ1biMhZLSPkb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.arithmetic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ArithmeticLondonTest.londonSchool">
+    <configuration name="All in tdd-schools (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-schools" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in tdd-schools" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-schools" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArithmeticChicagoTest.chicagoSchool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-schools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.arithmetic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.arithmetic" />
+      <option name="MAIN_CLASS_NAME" value="org.arithmetic.ArithmeticChicagoTest" />
+      <option name="METHOD_NAME" value="chicagoSchool" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArithmeticLondonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-schools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.arithmetic.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.arithmetic" />
+      <option name="MAIN_CLASS_NAME" value="org.arithmetic.ArithmeticLondonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArithmeticLondonTest.londonSchool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-schools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.arithmetic.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.arithmetic" />
+      <option name="MAIN_CLASS_NAME" value="org.arithmetic.ArithmeticLondonTest" />
+      <option name="METHOD_NAME" value="londonSchool" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArithmeticLondonTest.londonSchool" />
+        <item itemvalue="JUnit.ArithmeticChicagoTest.chicagoSchool" />
+        <item itemvalue="JUnit.ArithmeticLondonTest" />
+        <item itemvalue="JUnit.All in tdd-schools (1)" />
+        <item itemvalue="JUnit.All in tdd-schools" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="113b8d2e-547a-4f53-bd19-6da2f000c579" name="Changes" comment="" />
+      <created>1700348029937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700348029937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tdd_schools$ArithmeticLondonTest_londonSchool.ic" NAME="ArithmeticLondonTest.londonSchool Coverage Results" MODIFIED="1700383873549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.arithmetic.helper.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tdd_schools$ArithmeticChicagoTest_chicagoSchool.ic" NAME="ArithmeticChicagoTest.chicagoSchool Coverage Results" MODIFIED="1700383824782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.arithmetic.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tdd_schools$ArithmeticLondonTest.ic" NAME="ArithmeticLondonTest Coverage Results" MODIFIED="1700900758752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.arithmetic.helper.*</FILTER>
+    </SUITE>
+  </component>
+</project>
